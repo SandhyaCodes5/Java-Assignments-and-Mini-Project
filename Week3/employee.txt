@@ -1,0 +1,3 @@
+101, Aman, Engineering, 39000
+102, Sita, Doctor, 46000
+103, Abhi, Buisness, 80000
