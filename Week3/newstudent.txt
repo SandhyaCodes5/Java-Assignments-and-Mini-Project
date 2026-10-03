@@ -1,4 +1,0 @@
-java : 2
-is : 2
-easy : 1
-useful : 1
